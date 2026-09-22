@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kwami Alfred Jordal BIAM 👋
+# Hi, I'm Kwami Alfred Jordal BIAM 
 
 **Data Scientist & AI Engineer** · General Engineering Student at École Centrale Casablanca
 
@@ -14,16 +14,16 @@ I build end-to-end data science, machine learning and AI products — from resea
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 General Engineering student at **École Centrale Casablanca**
-- 🤖 Focused on **Data Science**, **Machine Learning**, **Deep Learning & LLMs**
-- 🛠️ Experience across the **full ML lifecycle**: EDA → feature engineering → modeling → evaluation → deployment
-- 🌍 Projects spanning **NLP, computer vision, time series, streaming** and **production AI platforms**
+- Bachelor of science and technology at **École Centrale Casablanca**
+-  Focused on **Data Science**, **Machine Learning**, **Deep Learning & LLMs**
+-  Experience across the **full ML lifecycle**: EDA → feature engineering → modeling → evaluation → deployment
+- Projects spanning **NLP, computer vision, time series, streaming** and **production AI platforms**
 
 ---
 
-## 🔭 What I'm Working On
+##  What I'm Working On
 
 - **AI-powered platforms** — insurance claims processing, SQL assistants & SDG text classification
 - **Real-time ML** — fraud detection with Kafka streaming
@@ -31,7 +31,7 @@ I build end-to-end data science, machine learning and AI products — from resea
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -60,7 +60,7 @@ I build end-to-end data science, machine learning and AI products — from resea
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
