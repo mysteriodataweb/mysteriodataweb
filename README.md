@@ -46,7 +46,7 @@ I build end-to-end data science, machine learning and AI products — from resea
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Data & ML** · Python · R · pandas · NumPy · scikit-learn · TensorFlow · PyTorch · statsmodels
 
